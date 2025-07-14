@@ -22,25 +22,25 @@
             <div class="col-lg-8 mb-4">
                 <div class="card border-0 shadow">
                     <div class="card-body p-5">
-                        <h3 class="mb-4">Send us a Message</h3>
+                        <h3 class="mb-4">Kirim Surat</h3>
                         <form id="contactForm">
                             <div class="row">
                                 <div class="col-md-6 mb-3">
-                                    <label for="name" class="form-label">Full Name *</label>
+                                    <label for="name" class="form-label">Nama Lengkap *</label>
                                     <input type="text" class="form-control" id="name" name="name" required>
                                 </div>
                                 <div class="col-md-6 mb-3">
-                                    <label for="email" class="form-label">Email Address *</label>
+                                    <label for="email" class="form-label">Alamat Email *</label>
                                     <input type="email" class="form-control" id="email" name="email" required>
                                 </div>
                             </div>
                             <div class="row">
                                 <div class="col-md-6 mb-3">
-                                    <label for="phone" class="form-label">Phone Number</label>
+                                    <label for="phone" class="form-label">Nomor Telepon</label>
                                     <input type="tel" class="form-control" id="phone" name="phone">
                                 </div>
                                 <div class="col-md-6 mb-3">
-                                    <label for="company" class="form-label">Company</label>
+                                    <label for="company" class="form-label">Perusahaan </label>
                                     <input type="text" class="form-control" id="company" name="company">
                                 </div>
                             </div>
@@ -84,7 +84,7 @@
                             <div class="d-flex align-items-start mb-3">
                                 <i class="fas fa-map-marker-alt text-primary me-3 mt-1"></i>
                                 <div>
-                                    <h6 class="mb-1">Address</h6>
+                                    <h6 class="mb-1">Alamat</h6>
                                     <p class="text-muted mb-0">Jl. Contoh No. 123<br>Jakarta Selatan, 12345<br>Indonesia</p>
                                 </div>
                             </div>
@@ -94,7 +94,7 @@
                             <div class="d-flex align-items-start mb-3">
                                 <i class="fas fa-phone text-primary me-3 mt-1"></i>
                                 <div>
-                                    <h6 class="mb-1">Phone</h6>
+                                    <h6 class="mb-1">Kontak</h6>
                                     <p class="text-muted mb-0">+62 21 1234 5678</p>
                                 </div>
                             </div>
@@ -114,7 +114,7 @@
                             <div class="d-flex align-items-start mb-3">
                                 <i class="fas fa-clock text-primary me-3 mt-1"></i>
                                 <div>
-                                    <h6 class="mb-1">Working Hours</h6>
+                                    <h6 class="mb-1">Jam Kerja</h6>
                                     <p class="text-muted mb-0">Mon - Fri: 9:00 AM - 6:00 PM<br>Sat: 9:00 AM - 1:00 PM</p>
                                 </div>
                             </div>
@@ -154,7 +154,7 @@
                     <div class="card-body p-0">
                         <div class="ratio ratio-21x9">
                             <iframe 
-                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3966.521260322283!2d106.8195613!3d-6.2087634!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f5390917b759%3A0x6b45e67356080477!2sBundle%20Indonesia!5e0!3m2!1sen!2sid!4v1635825200000!5m2!1sen!2sid" 
+                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3955.222981734122!2d110.8123114!3d-7.5657198!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a142346d5a4a5%3A0x6a2a4fb364c0758d!2sGladag%20Roundabout!5e0!3m2!1sen!2sid!4v1710000000000!5m2!1sen!2sid " 
                                 style="border:0;" 
                                 allowfullscreen="" 
                                 loading="lazy" 

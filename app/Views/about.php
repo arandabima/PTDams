@@ -25,7 +25,7 @@
                 <p>Saat ini, kami melayani lebih dari 500 klien dari berbagai industri, mulai dari UMKM hingga perusahaan multinasional.</p>
             </div>
             <div class="col-lg-6">
-                <img src="<?= base_url('assets/images/company-story.jpg') ?>" class="img-fluid rounded shadow" alt="Company Story">
+                <img src="<?= base_url('assets/images/gedung.png') ?>" class="img-fluid rounded shadow" alt="Company Story">
             </div>
         </div>
     </div>
@@ -77,9 +77,9 @@
             <div class="col-lg-3 col-md-6 mb-4">
                 <div class="card text-center border-0 shadow">
                     <div class="card-body p-4">
-                        <img src="<?= base_url('assets/images/team-1.jpg') ?>" class="rounded-circle mb-3" width="120" height="120" alt="CEO">
-                        <h5 class="card-title">John Doe</h5>
-                        <p class="text-muted">Chief Executive Officer</p>
+                        <img src="<?= base_url('assets/images/ceo.png') ?>" class="rounded-circle mb-3" width="120" height="120" alt="CEO">
+                        <h5 class="card-title">Abdi Amarul</h5>
+                        <p class="text-muted">Web Development</p>
                         <div class="d-flex justify-content-center gap-2">
                             <a href="#" class="btn btn-outline-primary btn-sm"><i class="fab fa-linkedin"></i></a>
                             <a href="#" class="btn btn-outline-primary btn-sm"><i class="fab fa-twitter"></i></a>
@@ -90,9 +90,9 @@
             <div class="col-lg-3 col-md-6 mb-4">
                 <div class="card text-center border-0 shadow">
                     <div class="card-body p-4">
-                        <img src="<?= base_url('assets/images/team-2.jpg') ?>" class="rounded-circle mb-3" width="120" height="120" alt="CTO">
-                        <h5 class="card-title">Jane Smith</h5>
-                        <p class="text-muted">Chief Technology Officer</p>
+                        <img src="<?= base_url('assets/images/manager.png') ?>" class="rounded-circle mb-3" width="120" height="120" alt="CTO">
+                        <h5 class="card-title">Nur Muslimah</h5>
+                        <p class="text-muted">Frontend Development</p>
                         <div class="d-flex justify-content-center gap-2">
                             <a href="#" class="btn btn-outline-primary btn-sm"><i class="fab fa-linkedin"></i></a>
                             <a href="#" class="btn btn-outline-primary btn-sm"><i class="fab fa-github"></i></a>
@@ -103,8 +103,8 @@
             <div class="col-lg-3 col-md-6 mb-4">
                 <div class="card text-center border-0 shadow">
                     <div class="card-body p-4">
-                        <img src="<?= base_url('assets/images/team-3.jpg') ?>" class="rounded-circle mb-3" width="120" height="120" alt="Lead Developer">
-                        <h5 class="card-title">Mike Johnson</h5>
+                        <img src="<?= base_url('assets/images/lead.png') ?>" class="rounded-circle mb-3" width="120" height="120" alt="Lead Developer">
+                        <h5 class="card-title">Adi Sucipto</h5>
                         <p class="text-muted">Lead Developer</p>
                         <div class="d-flex justify-content-center gap-2">
                             <a href="#" class="btn btn-outline-primary btn-sm"><i class="fab fa-linkedin"></i></a>
@@ -116,8 +116,8 @@
             <div class="col-lg-3 col-md-6 mb-4">
                 <div class="card text-center border-0 shadow">
                     <div class="card-body p-4">
-                        <img src="<?= base_url('assets/images/team-4.jpg') ?>" class="rounded-circle mb-3" width="120" height="120" alt="Designer">
-                        <h5 class="card-title">Sarah Wilson</h5>
+                        <img src="<?= base_url('assets/images/ui.png') ?>" class="rounded-circle mb-3" width="120" height="120" alt="Designer">
+                        <h5 class="card-title">Siti Kristianti</h5>
                         <p class="text-muted">UI/UX Designer</p>
                         <div class="d-flex justify-content-center gap-2">
                             <a href="#" class="btn btn-outline-primary btn-sm"><i class="fab fa-linkedin"></i></a>
