@@ -8,7 +8,7 @@
         <div class="row align-items-center">
             <div class="col-lg-6">
                 <h1 class="display-4 fw-bold">Selamat Datang di Perusahaan Kami</h1>
-                <p class="lead">Kami adalah perusahaan yang menyediakan, memberikan solusi IT terbaik untuk kebutuhan bisnis anda dalam masa digital yang terus berkembang. Kami telah berhasil memmbantu banyak perusahaan di Indonesia.</p>
+                <p class="lead">Kami adalah perusahaan yang menyediakan, memberikan solusi IT terbaik untuk kebutuhan bisnis anda dalam masa digital yang terus berkembang. Kami telah berhasil membantu banyak perusahaan di Indonesia.</p>
                 <div class="d-flex gap-3">
                     <a href="<?= base_url('about') ?>" class="btn btn-light btn-lg">Pelajari lebih lanjut</a>
                     <a href="<?= base_url('contact') ?>" class="btn btn-outline-light btn-lg">Hubungi Kami</a>
@@ -68,7 +68,7 @@
                 <img src="<?= base_url('assets/images/team work.png') ?>" class="img-fluid rounded" alt="About Us">
             </div>
             <div class="col-lg-6">
-                <h2 class="display-5 fw-bold">About Our Company</h2>
+                <h2 class="display-5 fw-bold">Tentang Perusahaan Kami</h2>
                 <p class="lead">Dengan pengalaman lebih dari 10 tahun, kami telah membantu ratusan klien mencapai tujuan bisnis mereka.</p>
                 <ul class="list-unstyled">
                     <li><i class="fas fa-check text-success me-2"></i> Tim profesional berpengalaman</li>
@@ -76,7 +76,7 @@
                     <li><i class="fas fa-check text-success me-2"></i> Pelayanan 24/7</li>
                     <li><i class="fas fa-check text-success me-2"></i> Garansi kepuasan pelanggan</li>
                 </ul>
-                <a href="<?= base_url('about') ?>" class="btn btn-primary btn-lg">Read More</a>
+                <a href="<?= base_url('about') ?>" class="btn btn-primary btn-lg">Selengkapnya</a>
             </div>
         </div>
     </div>
