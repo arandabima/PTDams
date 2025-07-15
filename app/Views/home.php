@@ -7,7 +7,7 @@
     <div class="container">
         <div class="row align-items-center">
             <div class="col-lg-6">
-                <h1 class="display-4 fw-bold">Selamat Datang di Perusahaan Kami</h1>
+                <h1 class="display-4 fw-bold">Selamat Datang di Perusahaan Kancut</h1>
                 <p class="lead">Kami adalah perusahaan yang menyediakan, memberikan solusi IT terbaik untuk kebutuhan bisnis anda dalam masa digital yang terus berkembang. Kami telah berhasil memmbantu banyak perusahaan di Indonesia.</p>
                 <div class="d-flex gap-3">
                     <a href="<?= base_url('about') ?>" class="btn btn-light btn-lg">Pelajari lebih lanjut</a>
