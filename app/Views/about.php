@@ -19,13 +19,12 @@
     <div class="container">
         <div class="row align-items-center">
             <div class="col-lg-6">
-                <h2 class="display-5 fw-bold mb-4">Our Story</h2>
-                <p class="lead">Didirikan pada tahun 2014, PT. Nama Company telah berkembang menjadi salah satu perusahaan teknologi terdepan di Indonesia.</p>
-                <p>Kami memulai perjalanan sebagai startup kecil dengan visi besar untuk memberikan solusi teknologi terbaik bagi bisnis di Indonesia. Dengan dedikasi tim yang luar biasa dan komitmen pada inovasi, kami terus tumbuh dan berkembang.</p>
+                <h2 class="display-5 fw-bold mb-4">Singo Lapas</h2>
+                <p class="lead">Didirikan pada tahun 1987, PT. Singo Lapas ini berasal di polehan yang bernama texas jodipanes.</p>
                 <p>Saat ini, kami melayani lebih dari 500 klien dari berbagai industri, mulai dari UMKM hingga perusahaan multinasional.</p>
             </div>
             <div class="col-lg-6">
-                <img src="<?= base_url('assets/images/gedung.png') ?>" class="img-fluid rounded shadow" alt="Company Story">
+                <img src="<?= base_url('assets/images/singo.jpg') ?>" class="img-fluid rounded shadow" alt="Company Story">
             </div>
         </div>
     </div>
