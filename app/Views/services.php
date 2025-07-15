@@ -206,7 +206,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
-                <h2 class="display-5 fw-bold mb-4">Ready to Start Your Project?</h2>
+                <h2 class="display-5 fw-bold mb-4">Siap Memulai Proyek Anda?</h2>
                 <p class="lead mb-4">Hubungi kami sekarang untuk konsultasi gratis dan dapatkan penawaran terbaik.</p>
                 <a href="<?= base_url('contact') ?>" class="btn btn-light btn-lg">Get Started</a>
             </div>

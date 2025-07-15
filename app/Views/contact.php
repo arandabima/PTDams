@@ -129,7 +129,7 @@
                                 <a href="#" class="btn btn-outline-primary btn-sm">
                                     <i class="fab fa-twitter"></i>
                                 </a>
-                                <a href="https://instagram.com/tiosaputraa._" target="_blank" class="btn btn-outline-primary btn-sm">
+                                <a href="#" target="_blank" class="btn btn-outline-primary btn-sm">
                                 <i class="fab fa-instagram"></i>
                                 </a>
                                 <a href="#" class="btn btn-outline-primary btn-sm">
@@ -181,7 +181,7 @@
                    <div class="accordion-item">
                        <h2 class="accordion-header" id="faq1">
                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse1">
-                               Berapa lama waktu pembuatan baju singo lapas?
+                               Berapa lama waktu pengembangan website?
                            </button>
                        </h2>
                        <div id="collapse1" class="accordion-collapse collapse show" data-bs-parent="#faqAccordion">

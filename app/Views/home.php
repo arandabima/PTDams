@@ -7,14 +7,10 @@
     <div class="container">
         <div class="row align-items-center">
             <div class="col-lg-6">
-<<<<<<< HEAD
-                <h1 class="display-4 fw-bold">Selamat Datang di Perusahaan Kancut / Kami</h1>
+                <h1 class="display-4 fw-bold">Selamat Datang di Perusahaan Kami</h1>
 
                 <p class="lead">Kami adalah perusahaan yang menyediakan, memberikan solusi IT terbaik untuk kebutuhan bisnis anda dalam masa digital yang terus berkembang. Kami telah berhasil memmbantu banyak perusahaan di Indonesia.</p>
-=======
-                <h1 class="display-4 fw-bold">Selamat Datang di Perusahaan Kami</h1>
-                <p class="lead">Kami adalah perusahaan yang menyediakan, memberikan solusi IT terbaik untuk kebutuhan bisnis anda dalam masa digital yang terus berkembang. Kami telah berhasil membantu banyak perusahaan di Indonesia.</p>
->>>>>>> 1f7672e0a95cf24d0b92508252af8ecec3c0c04b
+
                 <div class="d-flex gap-3">
                     <a href="<?= base_url('about') ?>" class="btn btn-light btn-lg">Pelajari lebih lanjut</a>
                     <a href="<?= base_url('contact') ?>" class="btn btn-outline-light btn-lg">Hubungi Kami</a>
