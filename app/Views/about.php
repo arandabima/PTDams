@@ -72,12 +72,12 @@
             <h2 class="display-5 fw-bold">Our Team</h2>
             <p class="lead">Tim profesional yang berpengalaman dan berdedikasi</p>
         </div>
-        <div class="row">
+        <div class="row justify-content-center">
             <div class="col-lg-3 col-md-6 mb-4">
                 <div class="card text-center border-0 shadow">
                     <div class="card-body p-4">
-                        <img src="<?= base_url('assets/images/ceo.png') ?>" class="rounded-circle mb-3" width="120" height="120" alt="CEO">
-                        <h5 class="card-title">Abdi Amarul</h5>
+                        <img src="<?= base_url('assets/images/iyot.jpg') ?>" class="team-photo mb-3" alt="CEO">
+                        <h5 class="card-title">TIO SAPUTRA</h5>
                         <p class="text-muted">Web Development</p>
                         <div class="d-flex justify-content-center gap-2">
                             <a href="#" class="btn btn-outline-primary btn-sm"><i class="fab fa-linkedin"></i></a>
@@ -89,8 +89,8 @@
             <div class="col-lg-3 col-md-6 mb-4">
                 <div class="card text-center border-0 shadow">
                     <div class="card-body p-4">
-                        <img src="<?= base_url('assets/images/manager.png') ?>" class="rounded-circle mb-3" width="120" height="120" alt="CTO">
-                        <h5 class="card-title">Nur Muslimah</h5>
+                        <img src="<?= base_url('assets/images/peni.jpg') ?>" class="team-photo mb-3" alt="CTO">
+                        <h5 class="card-title">ADAM TRI RAMADHANI</h5>
                         <p class="text-muted">Frontend Development</p>
                         <div class="d-flex justify-content-center gap-2">
                             <a href="#" class="btn btn-outline-primary btn-sm"><i class="fab fa-linkedin"></i></a>
@@ -102,8 +102,8 @@
             <div class="col-lg-3 col-md-6 mb-4">
                 <div class="card text-center border-0 shadow">
                     <div class="card-body p-4">
-                        <img src="<?= base_url('assets/images/lead.png') ?>" class="rounded-circle mb-3" width="120" height="120" alt="Lead Developer">
-                        <h5 class="card-title">Adi Sucipto</h5>
+                        <img src="<?= base_url('assets/images/bima.jpg') ?>" class="team-photo mb-3" alt="Lead Developer">
+                        <h5 class="card-title">ARANDA BIMANTARA</h5>
                         <p class="text-muted">Lead Developer</p>
                         <div class="d-flex justify-content-center gap-2">
                             <a href="#" class="btn btn-outline-primary btn-sm"><i class="fab fa-linkedin"></i></a>
@@ -112,21 +112,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-3 col-md-6 mb-4">
-                <div class="card text-center border-0 shadow">
-                    <div class="card-body p-4">
-                        <img src="<?= base_url('assets/images/ui.png') ?>" class="rounded-circle mb-3" width="120" height="120" alt="Designer">
-                        <h5 class="card-title">Siti Kristianti</h5>
-                        <p class="text-muted">UI/UX Designer</p>
-                        <div class="d-flex justify-content-center gap-2">
-                            <a href="#" class="btn btn-outline-primary btn-sm"><i class="fab fa-linkedin"></i></a>
-                            <a href="#" class="btn btn-outline-primary btn-sm"><i class="fab fa-dribbble"></i></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+        
 </section>
 
 <!-- Company Values -->

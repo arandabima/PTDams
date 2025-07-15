@@ -107,3 +107,10 @@ img {
 ::-webkit-scrollbar-thumb:hover {
     background: #0056b3;
 }
+
+.team-photo {
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+  border-radius: 50%;
+}
