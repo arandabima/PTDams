@@ -52,10 +52,10 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6">
-                    <h5>PT.Mekar Jaya</h5>
+                    <h5>PT.Mekar Jaya Teknologi</h5>
                     <p>Alamat: Jl. Tadan No. 13, Solo</p>
                     <p>Email: info@company.com</p>
-                    <p>Phone: (021) 123-4567</p>
+                    <p>Nomor Telepon: +62 21 1234 5678</p>
                 </div>
                 <div class="col-md-6">
                     <h5>Follow Us</h5>
@@ -69,7 +69,7 @@
             </div>
             <hr>
             <div class="text-center">
-                <p>&copy; <?= date('Y') ?> PT. Mekar Jaya. All rights reserved.</p>
+                <p>&copy; <?= date('Y') ?> PT. Mekar Jaya Teknologi. All rights reserved.</p>
             </div>
         </div>
     </footer>

@@ -45,13 +45,13 @@
                                 </div>
                             </div>
                             <div class="mb-3">
-                                <label for="subject" class="form-label">Subject *</label>
+                                <label for="subject" class="form-label">Keterangan *</label>
                                 <input type="text" class="form-control" id="subject" name="subject" required>
                             </div>
                             <div class="mb-3">
-                                <label for="service" class="form-label">Service Interested</label>
+                                <label for="service" class="form-label">Layanan</label>
                                 <select class="form-select" id="service" name="service">
-                                    <option value="">Select a service</option>
+                                    <option value="">Pilih layanan</option>
                                     <option value="web-development">Web Development</option>
                                     <option value="mobile-development">Mobile Development</option>
                                     <option value="digital-marketing">Digital Marketing</option>
@@ -61,12 +61,12 @@
                                 </select>
                             </div>
                             <div class="mb-3">
-                                <label for="message" class="form-label">Message *</label>
+                                <label for="message" class="form-label">Pesan *</label>
                                 <textarea class="form-control" id="message" name="message" rows="5" required></textarea>
                             </div>
                             <div class="d-grid">
                                 <button type="submit" class="btn btn-primary btn-lg">
-                                    <i class="fas fa-paper-plane me-2"></i>Send Message
+                                    <i class="fas fa-paper-plane me-2"></i>Kirim Pesan
                                 </button>
                             </div>
                         </form>
@@ -78,14 +78,14 @@
             <div class="col-lg-4">
                 <div class="card border-0 shadow h-100">
                     <div class="card-body p-5">
-                        <h3 class="mb-4">Get in Touch</h3>
+                        <h3 class="mb-4">Hubungi</h3>
                         
                         <div class="mb-4">
                             <div class="d-flex align-items-start mb-3">
                                 <i class="fas fa-map-marker-alt text-primary me-3 mt-1"></i>
                                 <div>
                                     <h6 class="mb-1">Alamat</h6>
-                                    <p class="text-muted mb-0">Jl. Contoh No. 123<br>Jakarta Selatan, 12345<br>Indonesia</p>
+                                    <p class="text-muted mb-0">Jl. Tadan No. 13, Solo</p>
                                 </div>
                             </div>
                         </div>
@@ -121,7 +121,7 @@
                         </div>
 
                         <div class="mb-4">
-                            <h6 class="mb-3">Follow Us</h6>
+                            <h6 class="mb-3">Ikuti Kami</h6>
                             <div class="d-flex gap-2">
                                 <a href="#" class="btn btn-outline-primary btn-sm">
                                     <i class="fab fa-facebook-f"></i>
@@ -149,7 +149,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12">
-                <h3 class="text-center mb-4">Our Location</h3>
+                <h3 class="text-center mb-4">Lokasi Kami</h3>
                 <div class="card border-0 shadow">
                     <div class="card-body p-0">
                         <div class="ratio ratio-21x9">
@@ -172,8 +172,7 @@
 <section class="py-5">
     <div class="container">
         <div class="text-center mb-5">
-            <h2 class="display-5 fw-bold">Frequently Asked Questions</h2>
-            <p class="lead">Pertanyaan yang sering diajukan oleh klien kami</p>
+            <h2 class="display-5 fw-bold">Pertanyaann Yang Sering Diajukan Klien Kami</h2>
         </div>
         <div class="row">
             <div class="col-lg-8 mx-auto">
