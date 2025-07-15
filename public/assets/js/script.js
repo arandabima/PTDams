@@ -111,8 +111,8 @@ window.addEventListener('scroll', function() {
     const parallax = document.querySelector('.hero-section');
     
     if (parallax) {
-        const speed = scrolled * 0.5;
-        parallax.style.transform = `translateY(${speed}px)`;
+        const speed = scrolled * 0;
+        parallax.style.transform = `translateY(-${speed}px)`;
     }
 });
 
