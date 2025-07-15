@@ -3,7 +3,7 @@
 <?= $this->section('content') ?>
 
 <!-- Contact Header -->
-<section class="bg-primary text-white py-5">
+<section class="bar bg-primary text-white py-5">
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
@@ -154,7 +154,7 @@
                     <div class="card-body p-0">
                         <div class="ratio ratio-21x9">
                             <iframe 
-                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3955.222981734122!2d110.8123114!3d-7.5657198!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a142346d5a4a5%3A0x6a2a4fb364c0758d!2sGladag%20Roundabout!5e0!3m2!1sen!2sid!4v1710000000000!5m2!1sen!2sid " 
+                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3955.222981734122!2d110.8123114!3d-7.5657198!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a142346d5a4a5%3A0x6a2a4fb364c0758d!2sGladag%20Roundabout!5e0!3m2!1sen!2sid!4v1710000000000!5m2!1sen!2sid" 
                                 style="border:0;" 
                                 allowfullscreen="" 
                                 loading="lazy" 

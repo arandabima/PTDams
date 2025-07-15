@@ -3,7 +3,7 @@
 <?= $this->section('content') ?>
 
 <!-- About Header -->
-<section class="bg-primary text-white py-5">
+<section class="bar bg-primary text-white py-5">
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">

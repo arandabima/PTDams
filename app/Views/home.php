@@ -43,7 +43,7 @@
                     <div class="card-body text-center">
                         <i class="fas fa-mobile-alt fa-3x text-primary mb-3"></i>
                         <h5 class="card-title">Mobile Apps</h5>
-                        <p class="card-text">Aplikasi mobile Android dan iOS yang user-friendly.</p>
+                        <p class="card-text">Aplikasi mobile Android dan OS yang user-friendly.</p>
                     </div>
                 </div>
             </div>

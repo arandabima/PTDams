@@ -3,7 +3,7 @@
 <?= $this->section('content') ?>
 
 <!-- Services Header -->
-<section class="bg-primary text-white py-5">
+<section class="bar bg-primary text-white py-5">
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
@@ -34,7 +34,7 @@
                             <li><i class="fas fa-check text-success me-2"></i> Web Application Development</li>
                         </ul>
                         <div class="text-center">
-                            <a href="#" class="btn btn-primary">Learn More</a>
+                            <a href="#" class="btn btn-primary">Lanjutkan</a>
                         </div>
                     </div>
                 </div>
@@ -56,7 +56,7 @@
                             <li><i class="fas fa-check text-success me-2"></i> App Store Optimization</li>
                         </ul>
                         <div class="text-center">
-                            <a href="#" class="btn btn-primary">Learn More</a>
+                            <a href="#" class="btn btn-primary">Lanjutkan</a>
                         </div>
                     </div>
                 </div>
@@ -78,7 +78,7 @@
                             <li><i class="fas fa-check text-success me-2"></i> Content Marketing</li>
                         </ul>
                         <div class="text-center">
-                            <a href="#" class="btn btn-primary">Learn More</a>
+                            <a href="#" class="btn btn-primary">Lanjutkan</a>
                         </div>
                     </div>
                 </div>
@@ -100,7 +100,7 @@
                             <li><i class="fas fa-check text-success me-2"></i> Usability Testing</li>
                         </ul>
                         <div class="text-center">
-                            <a href="#" class="btn btn-primary">Learn More</a>
+                            <a href="#" class="btn btn-primary">Lanjutkan</a>
                         </div>
                     </div>
                 </div>
@@ -122,7 +122,7 @@
                             <li><i class="fas fa-check text-success me-2"></i> Security Management</li>
                         </ul>
                         <div class="text-center">
-                            <a href="#" class="btn btn-primary">Learn More</a>
+                            <a href="#" class="btn btn-primary">Lanjutkan</a>
                         </div>
                     </div>
                 </div>
@@ -144,7 +144,7 @@
                             <li><i class="fas fa-check text-success me-2"></i> Training & Support</li>
                         </ul>
                         <div class="text-center">
-                            <a href="#" class="btn btn-primary">Learn More</a>
+                            <a href="#" class="btn btn-primary">Lanjutkan</a>
                         </div>
                     </div>
                 </div>
@@ -202,7 +202,7 @@
 </section>
 
 <!-- CTA Section -->
-<section class="py-5 bg-primary text-white">
+<section class="bar py-5 bg-primary text-white">
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">

@@ -43,7 +43,7 @@
     </nav>
 
     <!-- Main Content -->
-    <main style="margin-top: 76px;">
+    <main style="margin-top: 50px;">
         <?= $this->renderSection('content') ?>
     </main>
 
