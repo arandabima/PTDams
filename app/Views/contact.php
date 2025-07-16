@@ -172,7 +172,7 @@
 <section class="py-5">
     <div class="container">
         <div class="text-center mb-5">
-            <h2 class="display-5 fw-bold">Pertanyaann Yang Sering Diajukan Klien Kami</h2>
+            <h2 class="display-5 fw-bold">Pertanyaan Yang Sering Diajukan Klien Kami</h2>
         </div>
         <div class="row">
             <div class="col-lg-8 mx-auto">
@@ -194,7 +194,7 @@
                    <div class="accordion-item">
                        <h2 class="accordion-header" id="faq2">
                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse2">
-                               Apabila Yusuf kasin live tiktok aoakah kita harus menonton nya?
+                               Apa yang garansi yang bisa kami dapat?
                            </button>
                        </h2>
                        <div id="collapse2" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
